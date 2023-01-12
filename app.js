@@ -14,6 +14,7 @@ async function getQuotes(){
         const response = await fetch(apiUrl);
         apiQuotes = await response.json();
     } catch  (error){
+   
     }
     
 }
