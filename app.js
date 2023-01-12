@@ -7,7 +7,7 @@ loader.hidden = true;
 let randomLoadTime = 0;
 
 
-// get quotes from api.
+// get quotes from api.!
 async function getQuotes(){
     const apiUrl = "https://jacintodesign.github.io/quotes-api/data/quotes.json";
     try{
