@@ -8,6 +8,7 @@ body{
     background-image: url("assets/maze2.jpeg");
     background-size: cover;
     overflow-x: hidden;
+
 }
 
 a{
@@ -25,11 +26,13 @@ button{
 .quoteContainer{
    
     width: 60%;
+
     position: absolute;
     left: 20%;
     padding: 30px;
     top: 10vw;
     /* position: absolute  ; */
+    max-height: 500px;
     
    
    
